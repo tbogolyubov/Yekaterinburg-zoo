@@ -13,6 +13,7 @@
 ![{5B84583D-8DB6-4C56-8E51-ED76079A431C}](https://github.com/user-attachments/assets/511815da-2455-42f3-ad53-2225f8c3e2d1)
 
 Интерфейс окна "Опека"
+
 ![{4E069FE0-A304-45AA-B81B-B7CA6726BACD}](https://github.com/user-attachments/assets/8e115ad6-33a4-411b-9ddf-6c35a14bcf4d)
 
 Интерфейс окон "Карта зоопарка" и обитателей вольеров
