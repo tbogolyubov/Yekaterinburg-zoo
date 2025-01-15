@@ -34,6 +34,7 @@
 ![{346D5C5C-139A-44FC-A542-5951BBBA44B0}](https://github.com/user-attachments/assets/4f0fa80c-b7bd-4ae4-8839-285d0ccfe12d)
 
 Интерфейс окна "Купить билет"
+
 ![{4D4D055C-04A5-4EBC-9822-B074AD3CFD46}](https://github.com/user-attachments/assets/e4d4e50b-7164-4e53-9cb5-9b0eb1119411)
 
 ![{81252591-3794-45F2-AAE8-88DFC30EE84B}](https://github.com/user-attachments/assets/b965a052-66bd-4e3c-9605-ec3a9025e937)
