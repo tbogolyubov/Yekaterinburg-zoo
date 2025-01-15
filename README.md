@@ -4,12 +4,15 @@
 #### Скришоты интерфейса приложения
 
 Интерфейс главного окна
+
 ![{9EC0A08E-AF96-4E26-AE17-C135EA73DD37}](https://github.com/user-attachments/assets/f764b6f6-8418-4380-b12f-e9180685c43b)
 
 Интерфейс окна "Животные"
+
 ![{050E4271-1A0A-4ED9-8E8F-81B9BC1AEB84}](https://github.com/user-attachments/assets/8ec396e4-91e9-4e27-a066-a67e05c6b68a)
 
 Интерфейс окна "О нас"
+
 ![{5B84583D-8DB6-4C56-8E51-ED76079A431C}](https://github.com/user-attachments/assets/511815da-2455-42f3-ad53-2225f8c3e2d1)
 
 Интерфейс окна "Опека"
@@ -17,6 +20,7 @@
 ![{4E069FE0-A304-45AA-B81B-B7CA6726BACD}](https://github.com/user-attachments/assets/8e115ad6-33a4-411b-9ddf-6c35a14bcf4d)
 
 Интерфейс окон "Карта зоопарка" и обитателей вольеров
+
 ![{004071E0-A9C0-4C65-8B3B-1C019AA3C12A}](https://github.com/user-attachments/assets/c837c832-fb91-452d-bc50-6244fe20d4f0)
 
 ![{88935211-CD03-46E5-AE9E-6FAC72958317}](https://github.com/user-attachments/assets/b6971075-b15f-4065-921a-d845c507489e)
